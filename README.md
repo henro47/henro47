@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Henro Potgieter
 - 👀 I’m interested in Deep learning, Software development and Web Development.
-- 🌱 I’m currently learning Node.js and Neptune-software.
+- 🌱 I’m currently developing in Node.js, Neptune-software and Java.
 - 📫 How to reach me: https://hfr-potgieter.herokuapp.com/
 
 <!---
