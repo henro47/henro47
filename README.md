@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Henro Potgieter
 - 👀 I’m interested in Deep learning, Software development and Web Development.
 - 🌱 I’m currently developing in golang and react-js.
-- 📫 How to reach me: https://hfr-react-cv.vercel.app/
+- 📫 How to reach me: https://henro47.github.io/hfr-go-templ-cv/
 
 <!---
 henro47/henro47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
